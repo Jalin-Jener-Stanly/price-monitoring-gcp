@@ -1,0 +1,10 @@
+google-cloud-storage
+pandas
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+pymysql
+matplotlib
+openpyxl
+cryptography

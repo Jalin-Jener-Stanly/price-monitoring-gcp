@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+settings.txt
+*.db
+*.csv
+*.pdf
+*.log
+*.xlsx
